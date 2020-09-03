@@ -32,3 +32,11 @@ F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.V
 F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
 F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CopyComplete
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\List.cshtml.g.cs
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Data.dll
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\ToFood.core.dll
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\ToFood.core.pdb
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.cshtml.g.cs

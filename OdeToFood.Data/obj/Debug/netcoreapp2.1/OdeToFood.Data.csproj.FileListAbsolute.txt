@@ -1,0 +1,11 @@
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.deps.json
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.dll
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfoInputs.cache
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfo.cs
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csprojAssemblyReference.cache
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\ToFood.core.dll
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\ToFood.core.pdb
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CopyComplete

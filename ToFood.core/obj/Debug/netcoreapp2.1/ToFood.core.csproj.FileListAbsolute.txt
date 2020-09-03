@@ -1,0 +1,8 @@
+F:\Projects\Mvc.Net-Core-OdeToFood\ToFood.core\bin\Debug\netcoreapp2.1\ToFood.core.deps.json
+F:\Projects\Mvc.Net-Core-OdeToFood\ToFood.core\bin\Debug\netcoreapp2.1\ToFood.core.dll
+F:\Projects\Mvc.Net-Core-OdeToFood\ToFood.core\bin\Debug\netcoreapp2.1\ToFood.core.pdb
+F:\Projects\Mvc.Net-Core-OdeToFood\ToFood.core\obj\Debug\netcoreapp2.1\ToFood.core.AssemblyInfoInputs.cache
+F:\Projects\Mvc.Net-Core-OdeToFood\ToFood.core\obj\Debug\netcoreapp2.1\ToFood.core.AssemblyInfo.cs
+F:\Projects\Mvc.Net-Core-OdeToFood\ToFood.core\obj\Debug\netcoreapp2.1\ToFood.core.dll
+F:\Projects\Mvc.Net-Core-OdeToFood\ToFood.core\obj\Debug\netcoreapp2.1\ToFood.core.pdb
+F:\Projects\Mvc.Net-Core-OdeToFood\ToFood.core\obj\Debug\netcoreapp2.1\ToFood.core.csprojAssemblyReference.cache
