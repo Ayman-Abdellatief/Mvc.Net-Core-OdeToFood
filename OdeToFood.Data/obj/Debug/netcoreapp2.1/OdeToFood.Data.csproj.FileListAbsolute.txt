@@ -9,3 +9,5 @@ F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToF
 F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\ToFood.core.dll
 F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\ToFood.core.pdb
 F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CopyComplete
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.json
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.dev.json
