@@ -40,3 +40,11 @@ F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\ToFood.core
 F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
 F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
 F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.cshtml.g.cs
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Delete.cshtml.g.cs
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\_Summary.cshtml.g.cs
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R\Create.cshtml.g.cs
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R\Delete.cshtml.g.cs
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R\Details.cshtml.g.cs
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R\Edit.cshtml.g.cs
+F:\Projects\Mvc.Net-Core-OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R\Index.cshtml.g.cs
