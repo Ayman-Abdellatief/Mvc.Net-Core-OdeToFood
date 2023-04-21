@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Ayman-Abdellatief/Mvc.Net-Core-OdeToFood#readme",
   "dependencies": {
-    "datatables.net-bs": "^1.10.22"
+    "datatables.net-bs": "^1.13.4"
   }
 }
